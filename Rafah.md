@@ -43,7 +43,7 @@ Favorite food  | Pasta
   
   
   
-## You cna always count on me
+## You can always count on me
 I was always eager to learn. 
 I'm an IT engineer, I will always be more than happy to help my classmates.
 
