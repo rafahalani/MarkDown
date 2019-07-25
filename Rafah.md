@@ -62,7 +62,7 @@ Organise yourself so it is easy to know who you should link to.
 
 The links should have the following structure:
 
-[<< Ines](https://github.com/ALAASHO/markdown-/blob/master/README.md)  || RAFAH || [Alaa >>](https://github.com/ALAASHO/markdown-/blob/master/README.md)
+[<< Ines](https://github.com/InesAbbes/Markdown/edit/master/challenge-repository-Ines.md)  || RAFAH || [Alaa >>](https://github.com/ALAASHO/markdown-/blob/master/README.md)
 
 
 
