@@ -57,10 +57,6 @@ I'm working on my drivinglicen since 2014 and didn't get it yet!
 
 
 
-At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
-
-The links should have the following structure:
 
 [<< Ines](https://github.com/InesAbbes/Markdown/edit/master/challenge-repository-Ines.md)  || RAFAH || [Alaa >>](https://github.com/ALAASHO/markdown-/blob/master/README.md)
 
