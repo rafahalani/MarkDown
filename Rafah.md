@@ -44,8 +44,7 @@ Favorite food  | Pasta
   
   
 ## You can always count on me
-I was always eager to learn. 
-I'm an IT engineer, I will always be more than happy to help my classmates.
+if you need help, or some advices or may be someone to listen! I'll do my best!
 
 
 
